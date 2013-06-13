@@ -35,3 +35,6 @@ git-cherry-pick does not yield actual delicious cherries
 Be careful not to remove the branch you're standing on
 In Soviet Russia, git commits YOU!
 git happens
+We can't stop here, this is git country!
+I bet you thought this was a joke. Nope, git-testa.
+May the forks be with you
