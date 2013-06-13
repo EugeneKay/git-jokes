@@ -10,7 +10,7 @@ If you are responsible for a joke, feel free to submit a Pull Request with a
 whitespace edit on the line containing your joke, so that credit will appear in
 `git blame` output. 
 
-All jokes are dual-licensed the Do What The Fuck You Want To Public
+All jokes are dual-licensed under the Do What The Fuck You Want To Public
 License(WTFPL), any version and the GNU General Public License(GPL), version 3
 or higher. This means you are free to use these jokes anywhere, with anybody,
 for any purpose.
