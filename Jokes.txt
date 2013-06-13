@@ -1,0 +1,37 @@
+git-hg: Don't you know that's poison?
+git stash drop: Hey! That stuff's expensive.
+Remember to keep your porcelain clean
+git-fetch: no training required
+Commit early, commit often. A tip for version controlling - not for relationships
+Fork by yourself, shame on you. Fork with a friend, now we're getting somewhere.
+A branch, a tag, and a reflog walk into a bar. The bartender says, "What is this, some sort of rebase?"
+Why did the commit cross the rebase? To git to the other repo
+You can checkout any time you like, but you can never commit.
+git-sweep: It's brooms, all the way down.
+I kissed a git, and I liked it. I hope my repo don't mind it.
+The git that keeps on giving.
+git-svn: now you have two problems.
+CVS Survivors Meetings are Tuesdays at 9
+Beware the HEADless horseman of gitty hollow
+Be careful not to step in the git-gui
+Ring around the repo, pockets full of plumbing, objects, objects, we all commit.
+git-nom --omnom: eats all your tasty code
+Gits N' Roses: Now with more git cherry-pop, git freebase, and starring git Slash!
+Nurture your git-twigs and they will grow into a full branch
+Knock knock. Who's there? Git. Git-who? Sorry, 'who' is not a git command - did you mean 'show'?
+We're gits of the round table! | We eat ham and jam and commitalot! | On second thought, let's not go to #gitalot. It is a silly place.
+Be careful when rewriting history. It may push you to use the dark side of the --force
+When you play the game of clones, you merge or you reset --hard.
+git-clone has nothing to do with reproduction. So stop that.
+git: Multiplayer Notepad
+It's big, it's heavy, it's wood! git-log, from BLAMMO!
+Now with more indirect cycling giraffes!
+git-prune: not as tasty as git-cherry, but much better for you
+git-fsck: think of the children
+git-shell: your inner snail will thank you
+git-daemon: the evil rises
+git-bisect: No, not like that. Grow up.
+git-cherry-pick does not yield actual delicious cherries
+Be careful not to remove the branch you're standing on
+In Soviet Russia, git commits YOU!
+git happens
