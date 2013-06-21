@@ -39,4 +39,4 @@ We can't stop here, this is git country!
 I bet you thought this was a joke. Nope, git-testa.
 May the forks be with you
 Wait for the git-beats --drop
-git is one short of being a four-letter word
+git is one byte short of a four-letter word
