@@ -28,7 +28,7 @@ It's big, it's heavy, it's wood! git-log, from BLAMMO!
 Now with more indirect cycling giraffes!
 git-prune: not as tasty as git-cherry, but much better for you
 git-fsck: think of the children
-git-shell: your inner snail will thank you
+Keep good care of your git-shell and your inner snail will thank you
 git-daemon: the evil rises
 git-bisect: No, not like that. Grow up.
 git-cherry-pick does not yield actual delicious cherries
@@ -38,3 +38,4 @@ git happens
 We can't stop here, this is git country!
 I bet you thought this was a joke. Nope, git-testa.
 May the forks be with you
+Wait for the git-beats --drop
