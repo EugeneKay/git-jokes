@@ -40,3 +40,4 @@ I bet you thought this was a joke. Nope, git-testa.
 May the forks be with you
 Wait for the git-beats --drop
 git is one byte short of a four-letter word
+Yo dawg we heard you like commits so we put some commits in your tree so you can add submodules while you commit
