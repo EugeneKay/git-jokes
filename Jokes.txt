@@ -41,3 +41,7 @@ May the forks be with you
 Wait for the git-beats --drop
 git is one byte short of a four-letter word
 Yo dawg we heard you like commits so we put some commits in your tree so you can add submodules while you commit
+What we push in life echoes in eternity
+All those commits will be lost in time... Like tears in rain... Time to gc
+git-bisect: The good, the bad and the... uhh... skip
+git-stash: The sock drawer of version control
