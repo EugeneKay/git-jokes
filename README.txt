@@ -1,6 +1,6 @@
 Collection of questionably humorous git sayings.
 
-git-jokes was started as a project for the #git IRC channel(on FreeNode) by
+git-jokes was started as a project for the #git IRC channel on freenode by
 EugeneKay, wherein a new joke was placed in the topic every day. Being funny on
 a continuous basis quickly becomes impossible, so jokes started to get reused.
 This repo contains a list of (most of) these funnies, in an easy-to-digest form.
