@@ -45,3 +45,5 @@ What we push in life echoes in eternity
 All those commits will be lost in time... Like tears in rain... Time to gc
 git-bisect: The good, the bad and the... uhh... skip
 git-stash: The sock drawer of version control
+git - control your forrest of trees
+git - subversion done right
