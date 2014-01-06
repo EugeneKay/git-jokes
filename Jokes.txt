@@ -50,3 +50,4 @@ git - subversion done right
 This is not a joke, it's a commit.
 We're gits on the moon! We format our patches! But there ain't no stashes so we code bad branches and rebase our commits!
 git-cherry: the healthier snack
+Be careful you don't get lost in gitland! http://whiskers75.com/lost-in-gitland.png 
