@@ -34,6 +34,7 @@ git-bisect: No, not like that. Grow up.
 git-cherry-pick does not yield actual delicious cherries
 Be careful not to remove the branch you're standing on
 In Soviet Russia, git commits YOU!
+git: Comitted for life
 git happens
 We can't stop here, this is git country!
 I bet you thought this was a joke. Nope, git-testa.
