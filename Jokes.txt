@@ -53,3 +53,4 @@ We're gits on the moon! We format our patches! But there ain't no stashes so we 
 git-cherry: the healthier snack
 Be careful you don't get lost in gitland!
 diff in hell, SVNites!
+gitcoin: REWRITE A COMMIT, GO TO JAIL
