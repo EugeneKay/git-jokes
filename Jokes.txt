@@ -54,3 +54,4 @@ git-cherry: the healthier snack
 Be careful you don't get lost in gitland!
 diff in hell, SVNites!
 gitcoin: REWRITE A COMMIT, GO TO JAIL
+git off!
