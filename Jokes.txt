@@ -55,3 +55,4 @@ Be careful you don't get lost in gitland!
 diff in hell, SVNites!
 gitcoin: REWRITE A COMMIT, GO TO JAIL
 git off!
+Those who cannot --graph their branch are condemned to rebase it
