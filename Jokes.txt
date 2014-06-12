@@ -56,3 +56,4 @@ diff in hell, SVNites!
 gitcoin: REWRITE A COMMIT, GO TO JAIL
 git off!
 Those who cannot --graph their branch are condemned to rebase it
+Once you go git, you never go back.
