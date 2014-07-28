@@ -57,3 +57,4 @@ gitcoin: REWRITE A COMMIT, GO TO JAIL
 git off!
 Those who cannot --graph their branch are condemned to rebase it
 Once you go git, you never go back.
+This is not the greatest commit in the world, this is just a cherry-pick.
