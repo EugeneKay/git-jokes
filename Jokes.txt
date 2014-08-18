@@ -59,3 +59,4 @@ Those who cannot --graph their branch are condemned to rebase it
 Once you go git, you never go back.
 This is not the greatest commit in the world, this is just a cherry-pick.
 You can store your code in it!
+Hadn't been for merge-eyed Joe, Ida been commited long time ago
