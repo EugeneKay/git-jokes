@@ -62,3 +62,4 @@ You can store your code in it!
 Hadn't been for merge-eyed Joe, Ida been commited long time ago
 git commit crim… PUT DOWN THAT GUN AND HANDS UP IN THE AIR!
 No, I'm gitticus!
+git-blame: ruining friendships since 2006
