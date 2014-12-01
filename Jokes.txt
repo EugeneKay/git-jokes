@@ -65,3 +65,4 @@ No, I'm gitticus!
 git-blame: ruining friendships since 2006
 GitMan: Able to merge 8-headed octopoii in a single command! X-Ray vision of all code history!
 In Git we trust!
+all your rebase are belong to us
