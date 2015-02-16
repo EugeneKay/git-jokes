@@ -67,3 +67,7 @@ git-blame: ruining friendships since 2006
 GitMan: Able to merge 8-headed octopoii in a single command! X-Ray vision of all code history!
 In Git we trust!
 all your rebase are belong to us
+git request-pull: only legal in Nevada.
+git: where we dropped our trunks and all have masters
+Ceci n'est pas une commit
+git out of da choppah!
