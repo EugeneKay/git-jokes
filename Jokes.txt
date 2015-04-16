@@ -72,3 +72,5 @@ git: where we dropped our trunks and all have masters
 Ceci n'est pas une commit
 git out of da choppah!
 DaftPunk.git: clone it, fetch it, merge it, push it; pull it, log it, cherry-pick it
+Non nobis Domine, sed Git da gloriam!
+Updates were rejected: use the --force
