@@ -6,7 +6,7 @@ Commit early, commit often. A tip for version controlling - not for relationship
 Fork by yourself, shame on you. Fork with a friend, now we're getting somewhere.
 A branch, a tag, and a reflog walk into a bar. The bartender says, "What is this, some sort of rebase?"
 Why did the commit cross the rebase? To git to the other repo
-You can checkout any time you like, but you can never commit.
+You can checkout any time you like, but you can never diff.
 git-sweep: It's brooms, all the way down.
 I kissed a git, and I liked it. I hope my repo don't mind it.
 The git that keeps on giving.
