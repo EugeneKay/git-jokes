@@ -76,3 +76,4 @@ Non nobis Domine, sed Git da gloriam!
 Updates were rejected: use the --force
 I git by with a little help from my friends
 iGit 2.5 S: THE NEW GIT | MORE PERSONAL | MORE HIPSTER | THE MOST GIT SINCE GIT
+GIT - The information manager from hell
