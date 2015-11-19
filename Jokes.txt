@@ -76,3 +76,5 @@ Non nobis Domine, sed Git da gloriam!
 Updates were rejected: use the --force
 I git by with a little help from my friends
 iGit 2.5 S: THE NEW GIT | MORE PERSONAL | MORE HIPSTER | THE MOST GIT SINCE GIT
+Commits are not objects of love, and should not be judged by their size.
+Always make picking as sweet as the cherries, with gitvia.
