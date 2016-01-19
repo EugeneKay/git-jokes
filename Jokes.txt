@@ -79,3 +79,4 @@ iGit 2.5 S: THE NEW GIT | MORE PERSONAL | MORE HIPSTER | THE MOST GIT SINCE GIT
 Commits are not objects of love, and should not be judged by their size.
 Always make picking as sweet as the cherries, with gitvia.
 where do SVN-Users keep their HEAD? ... in the trunk!
+Git can remember it for you wholesale
