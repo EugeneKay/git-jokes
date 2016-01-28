@@ -69,6 +69,8 @@ In Git we trust!
 all your rebase are belong to us
 git request-pull: only legal in Nevada.
 git: where we dropped our trunks and all have masters
+git: history is written by the committers.
+Git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilber space.
 Ceci n'est pas une commit
 git out of da choppah!
 DaftPunk.git: clone it, fetch it, merge it, push it; pull it, log it, cherry-pick it
