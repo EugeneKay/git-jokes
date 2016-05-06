@@ -84,3 +84,5 @@ Always make picking as sweet as the cherries, with gitvia.
 where do SVN-Users keep their HEAD? ... in the trunk!
 Git can remember it for you wholesale
 Git knows what you did last summer!
+A commit a day keeps the mobs away
+git-outhouse: when even plumbing commands are too nice
