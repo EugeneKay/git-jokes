@@ -88,3 +88,4 @@ Git knows what you did last summer!
 A commit a day keeps the mobs away
 git-outhouse: when even plumbing commands are too nice
 May the --force be with you
+War is peace, freedom is slavery, ignorance is strength, git is version control
