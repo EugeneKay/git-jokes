@@ -1,3 +1,4 @@
+keep your beer chilled and your stash clear
 git pull a day keeps the conflict's away
 If you have anything staged, commit now or stash forever
 git-hg: Don't you know that's poison?
