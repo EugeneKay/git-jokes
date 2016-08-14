@@ -1,4 +1,3 @@
-keep your beer chilled and your stash clear
 git pull a day keeps the conflict's away
 If you have anything staged, commit now or stash forever
 git-hg: Don't you know that's poison?
@@ -89,3 +88,4 @@ Git knows what you did last summer!
 A commit a day keeps the mobs away
 git-outhouse: when even plumbing commands are too nice
 May the --force be with you
+keep your beer chilled and your stash clear
