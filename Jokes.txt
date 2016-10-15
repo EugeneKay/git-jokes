@@ -90,3 +90,4 @@ git-outhouse: when even plumbing commands are too nice
 May the --force be with you
 War is peace, freedom is slavery, ignorance is strength, svn is version control
 Subversion to crimestop thoughtcrime and unperson Emmanuel Gitstein
+The git-git-slide is fun to dance to, until it isn't
