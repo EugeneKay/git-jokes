@@ -92,3 +92,4 @@ War is peace, freedom is slavery, ignorance is strength, svn is version control
 Subversion to crimestop thoughtcrime and unperson Emmanuel Gitstein
 The git-git-slide is fun to dance to, until it isn't
 In case of fire: git commit, git push, leave the building
+Don't forgit to bring a towel
