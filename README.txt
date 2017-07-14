@@ -5,7 +5,7 @@ EugeneKay, wherein a new joke was placed in the topic every day. Being funny on
 a continuous basis quickly becomes impossible, so jokes started to get reused.
 This repo contains a list of (most of) these funnies, in an easy-to-digest form.
 
-There is also a git plugin, so you can now type `git joke` and recieve a random
+There is also a git plugin, so you can now type `git joke` and receive a random
 joke! To use this, add git-joke somewhere on your $PATH. For example, you could
 `wget https://raw.githubusercontent.com/EugeneKay/git-jokes/lulz/git-joke`
 somewhere like /usr/local/bin.
