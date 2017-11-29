@@ -89,3 +89,4 @@ A commit a day keeps the mobs away
 git-outhouse: when even plumbing commands are too nice
 May the --force be with you
 War is peace, freedom is slavery, ignorance is strength, git is version control
+Don't let the walls cave in on you, git knows where your HEAD's at
