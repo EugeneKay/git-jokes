@@ -93,3 +93,4 @@ Subversion to crimestop thoughtcrime and unperson Emmanuel Gitstein
 The git-git-slide is fun to dance to, until it isn't
 In case of fire: git commit, git push, leave the building
 Don't forgit to bring a towel
+What is the most loyal tool of a programmer? Git, because of its COMMITment!
