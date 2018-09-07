@@ -94,3 +94,4 @@ The git-git-slide is fun to dance to, until it isn't
 git gud
 In case of fire: git commit, git push, leave the building
 Don't forgit to bring a towel
+It's not that hard, you just need to git good
