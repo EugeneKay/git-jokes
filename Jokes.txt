@@ -98,3 +98,4 @@ It's not that hard, you just need to git good
 War is peace, freedom is slavery, ignorance is strength, git is version control
 Don't let the walls cave in on you, git knows where your HEAD's at
 What is the most loyal tool of a programmer? Git, because of its COMMITment!
+The problem with Git jokes ? well, everyone has their own version :)
