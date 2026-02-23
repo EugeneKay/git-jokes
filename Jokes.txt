@@ -107,3 +107,4 @@ Git In, Git Out (Git In, Git Out). Git In, Git Out (Git In, Git Out), BRANCH!–
 git a job, hippie!
 git-badaba-gitadoo, gitidab-commitydab-bran-bran-branch, I'm the gitman!
 Why did the commit cross the road? To git to the other side!
+Why did the commit break up from its tag? It needed more branch space
